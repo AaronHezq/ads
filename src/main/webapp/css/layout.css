@@ -1,0 +1,38 @@
+.ads_video {
+    width: 100px;
+    height: 80px;
+    position:absolute;
+    background-image: url(../images/1.jpg);
+    background-size: 100%
+}
+
+.ads_picture {
+    width: 100px;
+    height: 80px;
+    position:absolute;
+    background-image: url(../images/2.jpg);
+    background-size: 100%
+}
+
+.ads_news {
+    width: 100px;
+    height: 80px;
+    position:absolute;
+    background-image: url(../images/5.jpg);
+    background-size: 100%
+}
+
+.ads_weather {
+    width: 100px;
+    height: 80px;
+    position:absolute;
+    background-image: url(../images/10.jpg);
+    background-size: 100%
+}
+
+#ads_contentLayout {
+    width: 640px;
+    height: 360px;
+    background-color: darkgray;
+    position: absolute
+}
